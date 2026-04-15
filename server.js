@@ -35,49 +35,49 @@ const CONFIG = {
 // (clic droit sur le fichier > Partager > Copier le lien → l'ID est dans l'URL)
 // ─────────────────────────────────────────────
 const TEMPLATE_IDS = {
- // 01 - Starting Up
-  projectBrief:               "1a0QnJTwRDxtReAiugTAZdvBHJM7V3O29",
-  projectProductDescription:  "1QIvePZafiqxLIJim0Z7Qg77lzTMzArqE",
-  lessonsLog:                 "1H-3-wl19gZG4y4Y31TN0B7OaE6Xd_S8T",
+  // 01 - Starting Up
+  projectBrief:               "ID_DE_TON_FICHIER_projectBriefTemplate",
+  projectProductDescription:  "ID_DE_TON_FICHIER_projectProductDescriptionTemplate",
+  lessonsLog:                 "ID_DE_TON_FICHIER_lessonsLogTemplate",
 
   // 02 - Initiating
-  pid:                        "1JlgraJCia6_qWemOPqdpSywnT833NJV2",
-  projectPlan:                "1F1lp8iVAoYS0P31trvrHzPZxMclREsLU",
-  businessCase:               "1LxMVkGa7xTQRanx0zuVSJQGwwTPXquBY",
-  benefitsManagement:         "1Z-P4hEWOJAV3w8w1HsS2Yt4RqSf3RhfH",
-  changeManagement:           "1OPpLAZqaGLoaXyqPKM_Cww-M_C-A-Cqz",
-  commercialManagement:       "1cjRl82zk6zi4Q6kfC1U8w9RtTW1BbEWh",
-  communicationManagement:    "1pjygkmXDx88HXx0gpXeuTGjnSCPQjwmX",
-  digitalDataManagement:      "1r9egUJ_ZOKAxF8vTV7p8-Ys0c5ULvmml",
-  qualityManagement:          "1F6FcqIElYN-EC5ZcJDEWldmamOklu3G2",
-  riskManagement:             "17R8dg9PwegksedD1NY8PhPUoddz7Mmt2c",
-  sustainabilityManagement:   "1J3SAgZYPAdJHX0m2TbxqL8-Ck3qBYerB",
+  pid:                        "ID_DE_TON_FICHIER_pidTemplate",
+  projectPlan:                "ID_DE_TON_FICHIER_projectPlanTemplate",
+  businessCase:               "ID_DE_TON_FICHIER_businessCaseTemplate",
+  benefitsManagement:         "ID_DE_TON_FICHIER_benefitsManagementApproach",
+  changeManagement:           "ID_DE_TON_FICHIER_changeManagementApproach",
+  commercialManagement:       "ID_DE_TON_FICHIER_commercialManagementApproach",
+  communicationManagement:    "ID_DE_TON_FICHIER_communicationManagementApproach",
+  digitalDataManagement:      "ID_DE_TON_FICHIER_digitalDataManagementApproach",
+  qualityManagement:          "ID_DE_TON_FICHIER_qualityManagementApproach",
+  riskManagement:             "ID_DE_TON_FICHIER_riskManagementApproach",
+  sustainabilityManagement:   "ID_DE_TON_FICHIER_sustainabilityManagementApproach",
 
   // 03 - Directing
-  highlightReport:            "1akhSVYU6TnmDhogsUaYBV5M2ULGd8C2s",
-  exceptionReport:            "1dwilU0Kpm8M9OiDQR2k6XINGAtvd3i8xLA2",
-  lessonsReport:              "1NJU-n1wLNpQ8Dt2e3NmPkdLdGgy78BrDb",
+  highlightReport:            "ID_DE_TON_FICHIER_highlightReportTemplate",
+  exceptionReport:            "ID_DE_TON_FICHIER_exceptionReportTemplate",
+  lessonsReport:              "ID_DE_TON_FICHIER_lessonsReportTemplate",
 
   // 04 - Controlling
-  checkpointReport:           "1gKRmQHeILG7XQZ04qltgmOCv1PUnOF6M",
-  dailyLog:                   "1ktZlZP63gg9T0RAoXTQpxTfPF1Yh29uO",
-  issueRegister:              "14yGegc6PBSveZXz5i87Jql8eAk61X7WK",
-  riskRegister:               "1AoJJvGrWruUYhgQVCHzr19Z33SFHYywF",
-  qualityRegister:            "16UmBJrEFG6MyVup-zCokqJ2Aw-FOHMVr",
-  lessonsLogCS:               "1H-3-wl19gZG4y4Y31TN0B7OaE6Xd_S8T",
+  checkpointReport:           "ID_DE_TON_FICHIER_checkpointReportTemplate",
+  dailyLog:                   "ID_DE_TON_FICHIER_dailyLogTemplate",
+  issueRegister:              "ID_DE_TON_FICHIER_issueRegisterTemplate",
+  riskRegister:               "ID_DE_TON_FICHIER_riskRegisterTemplate",
+  qualityRegister:            "ID_DE_TON_FICHIER_qualityRegisterTemplate",
+  lessonsLogCS:               "ID_DE_TON_FICHIER_Lessons_logTemplate",
 
   // 05+06 - Managing + Stage Boundary
-  stagePlan:                  "1Us3OX0vGYFR8J0ngYctKRNSC1NqS9Qrf",
-  teamPlan:                   "ID_DE_TON_FICHIER_teamPlanTemplate", // Non présent sur les captures
-  workPackages:               "ID_DE_TON_FICHIER_workPackages",     // Non présent sur les captures
-  productDeliverable:         "ID_DE_TON_FICHIER_productDeliverable", // Non présent sur les captures
-  endStageReport:             "ID_DE_TON_FICHIER_endStageReportTemplate", // Non présent sur les captures
-  nextStagePlan:              "1EDsrRlFmZadn3YyvmT8_3-NElShvDqX", // Utilise initiationStagePlan par défaut
+  stagePlan:                  "ID_DE_TON_FICHIER_stagePlanTemplate",
+  teamPlan:                   "ID_DE_TON_FICHIER_teamPlanTemplate",
+  workPackages:               "ID_DE_TON_FICHIER_workPackages",
+  productDeliverable:         "ID_DE_TON_FICHIER_productDeliverable",
+  endStageReport:             "ID_DE_TON_FICHIER_endStageReportTemplate",
+  nextStagePlan:              "ID_DE_TON_FICHIER_nextStagePlanTemplate",
 
   // 07 - Closing
-  endProjectReport:           "ID_DE_TON_FICHIER_endProjectReportTemplate", // Non présent sur les captures
-  lessonsReportCP:            "1NJU-n1wLNpQ8Dt2e3NmPkdLdGgy78BrDb",
-  benefitsReview:             "ID_DE_TON_FICHIER_benefitsReviewTemplate", // Non présent sur les captures
+  endProjectReport:           "ID_DE_TON_FICHIER_endProjectReportTemplate",
+  lessonsReportCP:            "ID_DE_TON_FICHIER_lessonsReportTemplate_CP",
+  benefitsReview:             "ID_DE_TON_FICHIER_benefitsReviewTemplate",
 };
 
 // ─────────────────────────────────────────────
@@ -235,8 +235,11 @@ app.post("/webhook/goodday", async (req, res) => {
     }
   }
 
-  const { event, project } = req.body;
   console.log("\n📩 Webhook reçu:", JSON.stringify(req.body, null, 2));
+
+  // ✅ CORRECTION : GoodDay envoie systemEvents[] et payload (pas event/project)
+  const event = req.body.systemEvents?.[0];
+  const project = req.body.payload;
 
   // On ne réagit qu'à la création d'un projet (pas sous-tâches, etc.)
   if (event !== "project.create" || !project) {
